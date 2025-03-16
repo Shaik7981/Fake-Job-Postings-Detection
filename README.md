@@ -1,6 +1,6 @@
 # **Fake Job Postings Analysis Project**  
 
-![Fake Job Postings Dashboard](./home_page.png)  
+![Fake Job Postings Dashboard]([./home_page.png](https://github.com/Shaik7981/Fake-Job-Postings-Detection/blob/main/home%20page.png)
 
 ## **🔍 Project Objective**  
 The objective of this project is to analyze **fake job postings data** to distinguish between fraudulent and legitimate job listings. This involves:  
@@ -36,13 +36,13 @@ The objective of this project is to analyze **fake job postings data** to distin
 
 ## **📊 Dashboard Overview**  
 ### **🏠 Home Page**  
-![Home Page](./home_page.png)  
+![Home Page]([./home_page.png](https://github.com/Shaik7981/Fake-Job-Postings-Detection/blob/main/home%20page.png))  
 
 ### **📊 Dashboard Page 2**  
-![Page 2](./page_2.png)  
+![Page 2]([./page_2.png](https://github.com/Shaik7981/Fake-Job-Postings-Detection/blob/main/page%202.png))  
 
 ### **📈 Dashboard Page 3**  
-![Page 3](./page_3.png)  
+![Page 3]([./page_3.png](https://github.com/Shaik7981/Fake-Job-Postings-Detection/blob/main/page%203.png))  
 
 ## **🛠️ Technologies Used**  
 - 🐍 **Python** - Data preprocessing and analysis.  
