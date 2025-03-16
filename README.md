@@ -1,75 +1,71 @@
-Solo Project: Job Posting Analysis
+# **Fake Job Postings Analysis Project**  
 
-Objective
+![Fake Job Postings Dashboard](./home_page.png)  
 
-The goal of this project is to analyze job postings to identify patterns, trends, and potential fraudulent listings. By leveraging data analytics, SQL, and Power BI, the project aims to extract meaningful insights and enhance decision-making for job seekers and recruiters.
+## **🔍 Project Objective**  
+The objective of this project is to analyze **fake job postings data** to distinguish between fraudulent and legitimate job listings. This involves:  
+- **Data Cleaning** to remove inconsistencies and missing values.  
+- **Exploratory Data Analysis (EDA)** to identify key patterns in fake job postings.  
+- **SQL Queries** to extract insights.  
+- **Power BI Visualization** for interactive dashboards.  
 
-Project Structure
+## **📂 Project Structure**  
+- 📊 **solo_project.pbix** - Power BI dashboard file.  
+- 📜 **SQL.sql** - SQL queries for data analysis.  
+- 📂 **Cleaned_data_solo_project.xlsx** - Processed dataset for analysis.  
+- 📂 **fake_job_postings.csv** - Raw dataset with job postings.  
+- 🖼️ **home_page.png** - Screenshot of the main dashboard.  
+- 🖼️ **page_2.png** - Screenshot of Page 2 of the dashboard.  
+- 🖼️ **page_3.png** - Screenshot of Page 3 of the dashboard.  
+- 📜 **README.md** - Project documentation.  
 
-Data Collection & Cleaning
+## **📌 Key Features**  
+✅ **Data Cleaning & Preprocessing** - Removed missing values, standardized job descriptions, and handled outliers.  
+✅ **Exploratory Data Analysis (EDA)** - Uncovered patterns in fake job listings, identifying high-risk job categories.  
+✅ **SQL Queries & Insights** - Used SQL to filter, group, and analyze trends in fraudulent postings.  
+✅ **Power BI Dashboard** - Built interactive visualizations for in-depth insights.  
+✅ **Comparison of Legitimate vs. Fraudulent Jobs** - Highlighted key differences.  
 
-Dataset: fake_job_postings.csv
+## **🚀 Project Workflow**  
+1️⃣ **Data Collection** - Acquired the dataset containing fake and real job postings.  
+2️⃣ **Data Cleaning & Preprocessing** - Handled missing values, duplicates, and inconsistencies.  
+3️⃣ **Exploratory Data Analysis (EDA)** - Used Python to analyze key trends in fraudulent job postings.  
+4️⃣ **SQL Queries** - Ran queries to filter and extract insights from the dataset.  
+5️⃣ **Power BI Dashboard Development** - Created interactive visualizations for in-depth analysis.  
+6️⃣ **Insights & Reporting** - Generated final reports and dashboards highlighting key findings.  
 
-Cleaning & preprocessing performed in Cleaned_data_solo_project.xlsx
+## **📊 Dashboard Overview**  
+### **🏠 Home Page**  
+![Home Page](./home_page.png)  
 
-Database & SQL Queries
+### **📊 Dashboard Page 2**  
+![Page 2](./page_2.png)  
 
-SQL script: SQL.sql
+### **📈 Dashboard Page 3**  
+![Page 3](./page_3.png)  
 
-Queries for extracting insights and structuring data for analysis
+## **🛠️ Technologies Used**  
+- 🐍 **Python** - Data preprocessing and analysis.  
+- 🗄️ **SQL** - Querying and filtering job postings.  
+- 📊 **Power BI** - Dashboard creation and data visualization.  
+- 📄 **Excel** - Data cleaning and formatting.  
 
-Visualization & Dashboard
+## **📚 Insights & Findings**  
+🔹 **Fraudulent jobs often have vague descriptions and unrealistic salaries.**  
+🔹 **Certain job categories are more prone to fraudulent listings.**  
+🔹 **Remote jobs have a higher rate of fake postings compared to on-site jobs.**  
+🔹 **Fraudulent job postings often lack company details and use generic emails.**  
 
-Power BI file: solo project.pbix
+## **📌 How to Use This Project?**  
+1️⃣ Open the `solo_project.pbix` file in **Power BI**.  
+2️⃣ Run SQL queries in `SQL.sql` to explore the dataset.  
+3️⃣ Check `Cleaned_data_solo_project.xlsx` for processed job postings.  
+4️⃣ View insights and trends in Power BI dashboards.  
 
-Interactive dashboard to visualize key metrics and trends
+## **📖 References & Useful Links**  
+- 📌 [Dataset Source](#) *(Update with actual link)*  
+- 📌 [Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)  
+- 📌 [SQL Basics](https://www.w3schools.com/sql/)  
+- 📌 [Python for Data Analysis](https://realpython.com/)  
 
-Documentation & Report
-
-Screenshots: home page.png, page 2.png, page 3.png
-
-README file for project overview and instructions
-
-Key Insights & Features
-
-Fraudulent Job Postings Detection: Identifying suspicious patterns in job descriptions.
-
-Industry Trends: Analyzing demand for job roles across different industries.
-
-Job Location Insights: Understanding geographical distribution of postings.
-
-Visualization Dashboard: Interactive Power BI dashboard for quick insights.
-
-How to Use
-
-Data Preparation
-
-Ensure fake_job_postings.csv is available for reference.
-
-Use SQL.sql to execute queries and retrieve structured data.
-
-Power BI Dashboard
-
-Open solo project.pbix in Power BI.
-
-Navigate through different pages to explore insights.
-
-Review Findings
-
-Refer to the screenshots for an overview of the dashboard.
-
-Tools & Technologies Used
-
-Python & Pandas: Data cleaning and preprocessing
-
-SQL: Querying and structuring data
-
-Power BI: Data visualization and dashboarding
-
-Future Enhancements
-
-Automating data updates with real-time job postings
-
-Incorporating machine learning for fraud detection
-
-Enhancing visualizations with more interactive filters
+🚀 **Feel free to fork this repository and contribute!**  
