@@ -1,7 +1,6 @@
 # **Fake Job Postings Analysis Project**  
 
-![Fake Job Postings Dashboard]]
-(https://github.com/Shaik7981/Fake-Job-Postings-Detection/blob/main/home%20page.png)
+![Fake Job Postings Dashboard](https://github.com/Shaik7981/Fake-Job-Postings-Detection/blob/main/home%20page.png)  
 
 ## **🔍 Project Objective**  
 The objective of this project is to analyze **fake job postings data** to distinguish between fraudulent and legitimate job listings. This involves:  
@@ -15,9 +14,10 @@ The objective of this project is to analyze **fake job postings data** to distin
 - 📜 **SQL.sql** - SQL queries for data analysis.  
 - 📂 **Cleaned_data_solo_project.xlsx** - Processed dataset for analysis.  
 - 📂 **fake_job_postings.csv** - Raw dataset with job postings.  
-- 🖼️ **home_page.png** - Screenshot of the main dashboard.  
-- 🖼️ **page_2.png** - Screenshot of Page 2 of the dashboard.  
-- 🖼️ **page_3.png** - Screenshot of Page 3 of the dashboard.  
+- 🖼️ **Dashboard Images** - Hosted on GitHub for easy access.  
+  - 🏠 **Home Page** - ![Home Page](https://github.com/Shaik7981/Fake-Job-Postings-Detection/blob/main/home%20page.png)  
+  - 📊 **Dashboard Page 2** - ![Page 2](https://github.com/Shaik7981/Fake-Job-Postings-Detection/blob/main/page%202.png)  
+  - 📈 **Dashboard Page 3** - ![Page 3](https://github.com/Shaik7981/Fake-Job-Postings-Detection/blob/main/page%203.png)  
 - 📜 **README.md** - Project documentation.  
 
 ## **📌 Key Features**  
@@ -34,16 +34,6 @@ The objective of this project is to analyze **fake job postings data** to distin
 4️⃣ **SQL Queries** - Ran queries to filter and extract insights from the dataset.  
 5️⃣ **Power BI Dashboard Development** - Created interactive visualizations for in-depth analysis.  
 6️⃣ **Insights & Reporting** - Generated final reports and dashboards highlighting key findings.  
-
-## **📊 Dashboard Overview**  
-### **🏠 Home Page**  
-([./home_page.png](https://github.com/Shaik7981/Fake-Job-Postings-Detection/blob/main/home%20page.png))  
-
-### **📊 Dashboard Page 2**  
-([./page_2.png](https://github.com/Shaik7981/Fake-Job-Postings-Detection/blob/main/page%202.png))  
-
-### **📈 Dashboard Page 3**  
-([./page_3.png](https://github.com/Shaik7981/Fake-Job-Postings-Detection/blob/main/page%203.png))  
 
 ## **🛠️ Technologies Used**  
 - 🐍 **Python** - Data preprocessing and analysis.  
